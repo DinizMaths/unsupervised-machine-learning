@@ -1,2 +1,3 @@
-# unsupervised-machine-learning
+# PPGEEC2325 APRENDIZADO NÃO SUPERVISIONADO DE MÁQUINA
+
 A repository
