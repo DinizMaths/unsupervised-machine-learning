@@ -10,6 +10,12 @@ A primeira lista aborda o cálculo e análise de conceitos da estatística como 
 - [Questão 3](U1/L1/Q3.ipynb)
 - [Questão 4](U1/L1/Q4.ipynb)
 
+## Lista 2
+
+A segunda lista aborda ...
+- [Questão 1](U1/L2/Q1.ipynb)
+- [Questão 2](U1/L2/Q2.ipynb)
+
 ## Autores
 - [Matheus Diniz](https://github.com/DinizMaths)
 - [Morsinaldo Medeiros](https://github.com/Morsinaldo)
